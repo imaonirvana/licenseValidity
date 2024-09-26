@@ -61,6 +61,6 @@ The results will be printed in an output to console:
 
 ## Bug Reports and Feature Requests
 
-If you encounter any bugs or have suggestions for new features, please feel free to contact me in Telegram or Teams. I appreciate your feedback and contributions to improve **```poChecker```**.
+If you encounter any bugs or have suggestions for new features, please feel free to contact me in Telegram or Teams. I appreciate your feedback and contributions to improve **```licenseValidity```**.
 
 [Telegram](https://t.me/imaonirvana "Telegram") | [MS Teams](https://teams.microsoft.com/ "MS Teams") *(contact Dmytro Dudnyk)*
